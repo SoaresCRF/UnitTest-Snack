@@ -1,2 +1,2 @@
-# 1038-Lanche
- Atividade lanche - Teste de sistemas
+# Unit test - Snack
+ Teste em um sistema de lanches
